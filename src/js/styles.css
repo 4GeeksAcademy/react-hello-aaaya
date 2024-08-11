@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #343a40;
+}
+
+.jumbotron {
+    background-color: #e9ecef;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+}
+
+.card {
+    margin-bottom: 2rem;
+    display: flex;
+}
+
+footer {
+    background-color: blue;
+    padding: 1rem;
+}
+
+imagesrc{
+    height: '200px';
+   
+                 width: '100%', 
+}
